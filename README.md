@@ -1,1 +1,1 @@
-# simple textrank
+# simple model
